@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.clic, .no-clic {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clic {
+    color: white;
+    background-color: black;
+}
+
+.no-clic {
+    background-color: #ffff00;
+}
