@@ -18,3 +18,35 @@ body {
 button {
   background: white;
 }
+
+/* Solution to the problem presented */
+
+body {
+  font-size: 16px;
+}
+
+.card {
+  padding: 1px 9px 9px;
+}
+
+.title {
+  padding: 9px;
+  margin-bottom: 9px;
+}
+
+.content {
+  margin: 9px auto;
+  padding: 18px 9px;
+}
+
+button {
+  display: block;
+  margin: auto;
+  padding: 9px 18px;
+}
+
+.button-container {
+  padding: 9px;
+  text-align: center;
+}
+
