@@ -22,4 +22,20 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+} 
+
+/* Solution to the given problem */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+}
+
+.left-links ul, .right-links ul {
+  display: flex;
+  gap: 12px;
+  padding: 0;
+  margin: 0;
 }
